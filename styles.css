@@ -1,0 +1,90 @@
+/* General page styling */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F8F5F0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+#header {
+    background-color: #DCCDBE;
+    padding: 20px;
+}
+
+.logo {
+    float: left;
+    width: 120px;
+    margin-right: 20px;
+}
+
+/* Navigation */
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-left: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #3F3F3F;
+    font-weight: bold;
+}
+
+/* Welcome section */
+
+#welcome {
+    background-color: #E9DDC7;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Content sections */
+
+.content-box {
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* Headings */
+
+h1, h2, h3 {
+    color: #C8A96A;
+}
+
+/* Paragraphs */
+
+p {
+    color: #444;
+    line-height: 1.6;
+}
+
+/* Bottom image */
+
+.banner {
+    display: block;
+    width: 80%;
+    margin: 30px auto;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #C8A96A;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
